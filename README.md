@@ -1,5 +1,5 @@
 # OverTheWire
-Tracking completion of OverTheWire wargames.
+Tracking completion of [OverTheWire wargames](https://overthewire.org/wargames/).
 
 ## Bandit
 
