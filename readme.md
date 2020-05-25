@@ -9,7 +9,7 @@ Tracking completion of [OverTheWire wargames](https://overthewire.org/wargames/)
 - [x] Level 3
 - [x] Level 4
 - [x] Level 5
-- [ ] Level 6
+- [x] Level 6
 - [ ] Level 7
 - [ ] Level 8
 - [ ] Level 9
