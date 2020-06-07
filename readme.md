@@ -16,10 +16,10 @@ Tracking completion of [OverTheWire wargames](https://overthewire.org/wargames/)
 - [x] Level 10
 - [x] Level 11
 - [x] Level 12
-- [ ] Level 13
-- [ ] Level 14
-- [ ] Level 15
-- [ ] Level 16
+- [x] Level 13
+- [x] Level 14
+- [x] Level 15
+- [x] Level 16
 - [ ] Level 17
 - [ ] Level 18
 - [ ] Level 19
